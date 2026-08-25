@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Second Android App</string>
+    <string name="title">CALCULATOR</string>
+    <string name="edittext1">Enter a Number</string>
+    <string name="b1">CALCULATE</string>
+    <string name="resultText">Here the result</string>
+</resources>
